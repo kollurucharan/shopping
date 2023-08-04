@@ -1,0 +1,123 @@
+<html>
+    <head >
+        <title>shopping</title>
+        <link rel="stylesheet" href="cart.css">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <h1 >WEB PAGE FOR SHOPPING</h1>
+    </head>
+    
+    <body>
+        <h2>
+    <div id="d1">
+            <form>
+        <div  class="row" id="d23">
+            <div  id="d2" class="col-sm-4">
+                <label for="l1">search</label>
+                <input type="text" id="t1"> 
+            </div>
+            <div id="d3" class="col-sm-4">
+                <input type="button" id="b1" value="search">
+            </div>
+        
+        
+            <div id="d4">
+                <input type="button" id="b2" value="add cart">
+            </div>
+            <div id="d5">
+                <input type="button" id="b3" value="sort">
+            </div>
+         
+    </div>
+    </form>
+    <div id="t1">
+    </h2>
+
+    <div id="c">
+    <div class="card" style="width: 18rem;">
+        <img  class="card-img-top" alt="Product Image" id="img1">
+        <div class="card-body">
+            <h5 id="t1" class="card-title">Product Name</h5>
+            <p id="p1" class="card-text">Price: $XX.XX</p>
+            <p id="r1" class="card-text">Rating: ★★★★☆</p>
+            <a id="a1" href="#" class="btn btn-primary">Add to Cart</a>
+        </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img  class="card-img-top" alt="Product Image" id="img2">
+        <div class="card-body">
+            <h5 id="t2" class="card-title">Product Name</h5>
+            <p id="p2" class="card-text">Price: $XX.XX</p>
+            <p id="r2" class="card-text">Rating: ★★★★☆</p>
+            <a id="a2" href="#" class="btn btn-primary">Add to Cart</a>
+        </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img  class="card-img-top" alt="Product Image" id="img3">
+        <div class="card-body">
+            <h5 id="t3" class="card-title">Product Name</h5>
+            <p id="p3" class="card-text">Price: $XX.XX</p>
+            <p id="r3" class="card-text">Rating: ★★★★☆</p>
+            <a id="a3" href="#" class="btn btn-primary">Add to Cart</a>
+        </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img  class="card-img-top" alt="Product Image" id="img4">
+        <div class="card-body">
+            <h5 id="t4" class="card-title">Product Name</h5>
+            <p id="p4" class="card-text">Price: $XX.XX</p>
+            <p id="r4" class="card-text">Rating: ★★★★☆</p>
+            <a id="a4" href="#" class="btn btn-primary">Add to Cart</a>
+        </div>
+    </div>
+    
+</div>
+<div id="c2">
+    <div class="card" style="width: 18rem;">
+        <img  class="card-img-top" alt="Product Image" id="img5">
+        <div class="card-body">
+            <h5 id="t5" class="card-title">Product Name</h5>
+            <p id="p5" class="card-text">Price: $XX.XX</p>
+            <p id="r5" class="card-text">Rating: ★★★★☆</p>
+            <a id="a5" href="#" class="btn btn-primary">Add to Cart</a>
+        </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img  class="card-img-top" alt="Product Image" id="img6">
+        <div class="card-body">
+            <h5 id="t6" class="card-title">Product Name</h5>
+            <p id="p6" class="card-text">Price: $XX.XX</p>
+            <p id="r6" class="card-text">Rating: ★★★★☆</p>
+            <a id="a6" href="#" class="btn btn-primary">Add to Cart</a>
+        </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img  class="card-img-top" alt="Product Image" id="img7">
+        <div class="card-body">
+            <h5 id="t7" class="card-title">Product Name</h5>
+            <p id="p7" class="card-text">Price: $XX.XX</p>
+            <p id="r7" class="card-text">Rating: ★★★★☆</p>
+            <a i="a7" href="#" class="btn btn-primary">Add to Cart</a>
+        </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img  class="card-img-top" alt="Product Image" id="img7">
+        <div class="card-body">
+            <h5 id="t7" class="card-title">Product Name</h5>
+            <p id="p7" class="card-text">Price: $XX.XX</p>
+            <p id="r7" class="card-text">Rating: ★★★★☆</p>
+            <a i="a7" href="#" class="btn btn-primary">Add to Cart</a>
+        </div>
+    </div>
+    
+</div>
+    <script>
+        for(let i=1;i<16;i++)
+        {
+            
+        }
+    </script>
+
+    </body>
+</html>
