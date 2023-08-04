@@ -1,0 +1,95 @@
+
+var x={"data":[
+    {
+        "img": "image_url_1.jpg",
+        "title": "Product 1",
+        "price": "$19.99",
+        "rating": "★★★★☆"
+    },
+    {
+        "img": "image_url_2.jpg",
+        "title": "Product 2",
+        "price": "$24.99",
+        "rating": "★★★☆☆"
+    },
+
+    {
+        "img": "image_url_32.jpg",
+        "title": "Product 32",
+        "price": "$29.99",
+        "rating": "★★★★★"
+    },
+    {
+        "img": "image_url_1.jpg",
+        "title": "Product 1",
+        "price": "$19.99",
+        "rating": "★★★★☆"
+    },
+    {
+        "img": "image_url_2.jpg",
+        "title": "Product 2",
+        "price": "$24.99",
+        "rating": "★★★☆☆"
+    },
+    // ... Continue with 30 more records ...
+    {
+        "img": "image_url_32.jpg",
+        "title": "Product 32",
+        "price": "$29.99",
+        "rating": "★★★★★"
+    }, {
+        "img": "image_url_1.jpg",
+        "title": "Product 1",
+        "price": "$19.99",
+        "rating": "★★★★☆"
+    },
+    {
+        "img": "image_url_2.jpg",
+        "title": "Product 2",
+        "price": "$24.99",
+        "rating": "★★★☆☆"
+    },
+    // ... Continue with 30 more records ...
+    {
+        "img": "image_url_32.jpg",
+        "title": "Product 32",
+        "price": "$29.99",
+        "rating": "★★★★★"
+    }, {
+        "img": "image_url_1.jpg",
+        "title": "Product 1",
+        "price": "$19.99",
+        "rating": "★★★★☆"
+    },
+    {
+        "img": "image_url_2.jpg",
+        "title": "Product 2",
+        "price": "$24.99",
+        "rating": "★★★☆☆"
+    },
+    // ... Continue with 30 more records ...
+    {
+        "img": "image_url_32.jpg",
+        "title": "Product 32",
+        "price": "$29.99",
+        "rating": "★★★★★"
+    }, {
+        "img": "image_url_1.jpg",
+        "title": "Product 1",
+        "price": "$19.99",
+        "rating": "★★★★☆"
+    },
+    {
+        "img": "image_url_2.jpg",
+        "title": "Product 2",
+        "price": "$24.99",
+        "rating": "★★★☆☆"
+    },
+    // ... Continue with 30 more records ...
+    {
+        "img": "image_url_32.jpg",
+        "title": "Product 32",
+        "price": "$29.99",
+        "rating": "★★★★★"
+    }
+]}
